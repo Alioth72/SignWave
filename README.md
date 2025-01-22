@@ -1,6 +1,8 @@
 # SignWave
 
 SignWave is a real-time bidirectional sign language translator designed to bridge communication gaps and enhance educational opportunities for speech- and hearing-impaired individuals. By utilizing advanced machine learning and computer vision technologies, SignWave aims to make communication seamless and inclusive.
+
+
 ![WhatsApp Image 2025-01-22 at 04 06 49_e944c623](https://github.com/user-attachments/assets/8256fc9f-795e-4522-8f1f-1fd645ea3c90)
 
 
